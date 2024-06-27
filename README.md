@@ -17,7 +17,7 @@ Basically, the tool extracts all mods, and searches for important folders or DLL
 
 ## How to run the tool
 Do `git clone https://github.com/Damacah/Lethal-Extractor.git`.
-Or download this repo from [here](https://github.com/Damacah/ModifyNow/archive/refs/heads/master.zip).
+Or download this repo from [here](https://github.com/Damacah/Lethal-Extractor/archive/refs/heads/main.zip).
 
 Run the tool with `python main.py`.
 
